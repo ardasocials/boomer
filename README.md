@@ -1,0 +1,1 @@
+SMS/E-posta/Whatsapp/Twitter/Instagram Ayrıca, proxy gibi davranan geçici bir telefon numarası kullanarak telefon numarasına dayalı SMS doğrulamasını atlamaya yardımcı olan bazı Sahte SMS yardımcı programlarının koleksiyonu eklendi.
